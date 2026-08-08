@@ -1,0 +1,11 @@
+{
+  "name": "covers-brasil",
+  "version": "1.0.0",
+  "description": "Gerador de capas dinamicas para catalogos brasileiros (estilo BetterCovers/btttr.cc) com logo BRASIL",
+  "main": "api/cover.js",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "sharp": "^0.33.0"
+  }
+}
